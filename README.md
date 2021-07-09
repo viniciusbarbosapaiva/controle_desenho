@@ -16,7 +16,7 @@ According to the ISO 9001 standard, document control and review is a very import
 * PysimpleGUI
 * json
 * os
-* pysutogui
+* pyautogui
 * time
 * plattaforms
 
