@@ -25,7 +25,8 @@ It is the responsibility of the Surco Engineering sector to print drawings for t
 Before automation, a qualified professional was needed to perform the task of printing drawings for the manufacturing and assembly of equipment. However, after automation, there is no need for a professional performing this function. Thus, it minimized the cost of qualified labor and allowed the professional to be allocated to other tasks.
 
 ### Video Program
+Please, download the video to watch the app running.
 
-![viniciusbarbosapaiva](https://github.com/viniciusbarbosapaiva/controle_desenho/blob/main/Controle.wmv)
+![App Video](https://github.com/viniciusbarbosapaiva/controle_desenho/blob/main/Controle.wmv)
 
 
