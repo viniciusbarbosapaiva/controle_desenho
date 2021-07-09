@@ -1,10 +1,10 @@
 # Project Title
 
-Automation of the Engineering Drawings Printing Process.
+Automation of the Distribution Control of Engineering Drawings.
 
 ## Description
 
-It is the responsibility of the Surco Engineering sector to print drawings for the manufacture and assembly of equipment sold to various clients in the Oil and Gas sector. However, this process demands a lot of time from the responsible professional. Aiming at process optimization, the entire printing task was automated from start to finish by consulting a data source, where, in a way, all drawings are printed for all sectors without human interference.
+According to the ISO 9001 standard, document control and review is a very important process for any company that seeks continuous improvement. In order to meet this, the Surco Engineering sector is responsible for controlling the drawings distributed for the manufacture and assembly of equipment sold to the various clients in the Oil and Gas sector. However, this process demands a lot of time from the responsible professional. Aiming at procedural optimization, the control task was all automated from start to finish by consulting a data source, where, in a way, all drawings are controlled without human interference.
 
 ## Getting Started
 
@@ -18,11 +18,11 @@ It is the responsibility of the Surco Engineering sector to print drawings for t
 * os
 * pysutogui
 * time
-* subprocess
+* plattaforms
 
 ### Project Results 
 
-Before automation, a qualified professional was needed to perform the task of printing drawings for the manufacturing and assembly of equipment. However, after automation, there is no need for a professional performing this function. Thus, it minimized the cost of qualified labor and allowed the professional to be allocated to other tasks.
+Before automation, a qualified professional was needed to perform the task of controlling the distribution of drawings for manufacturing and assembly of equipment. However, after automation, there is no need for a professional performing this function. Thus minimizing the cost of qualified labor and made it possible to allocate the professional to other tasks.
 
 ### Video Program
 Please, download the video to watch the app running.
